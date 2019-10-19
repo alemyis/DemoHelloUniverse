@@ -1,2 +1,2 @@
 # DemoHelloUniverse
-Demo project hello from local branch. 
+Demo project. Hello from local branch. 
